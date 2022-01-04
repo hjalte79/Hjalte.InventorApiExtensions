@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hjalte.InventorApiExtensions", "Hjalte.InventorApiExtensions\Hjalte.InventorApiExtensions.csproj", "{EE490E5B-38F3-4D97-82B0-FCBDD436286E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hjalte.ExampleUsageCsharp", "Hjalte.ExampleUsage\Hjalte.ExampleUsageCsharp.csproj", "{12AE00C6-9676-4911-B866-17FA31165F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE490E5B-38F3-4D97-82B0-FCBDD436286E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE490E5B-38F3-4D97-82B0-FCBDD436286E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE490E5B-38F3-4D97-82B0-FCBDD436286E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE490E5B-38F3-4D97-82B0-FCBDD436286E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12AE00C6-9676-4911-B866-17FA31165F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AE00C6-9676-4911-B866-17FA31165F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AE00C6-9676-4911-B866-17FA31165F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AE00C6-9676-4911-B866-17FA31165F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BFC66A-34EE-41F0-9BAE-E22F78D49185}
+	EndGlobalSection
+EndGlobal
